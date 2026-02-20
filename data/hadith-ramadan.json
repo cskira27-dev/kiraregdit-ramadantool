@@ -1,0 +1,251 @@
+[
+  {
+    "id": "hadith_ramadan_001",
+    "day": 1,
+    "title_en": "Fasting Intention",
+    "title_bn": "রোজার নিয়ত",
+    "hadith": "Whoever fasts during Ramadan out of faith and seeking reward, his past sins will be forgiven.",
+    "source": "Sahih Bukhari 1904"
+  },
+  {
+    "id": "hadith_ramadan_002",
+    "day": 2,
+    "title_en": "Reward of Fasting",
+    "title_bn": "রোজার সওয়াব",
+    "hadith": "Fasting is a shield; whoever fasts during the month of Ramadan, Allah will protect him from Hellfire.",
+    "source": "Sahih Muslim 1151"
+  },
+  {
+    "id": "hadith_ramadan_003",
+    "day": 3,
+    "title_en": "Charity During Ramadan",
+    "title_bn": "রমজানে দান",
+    "hadith": "The Prophet ﷺ was the most generous of all people, and he was most generous in Ramadan.",
+    "source": "Sahih Bukhari 1901"
+  },
+  {
+    "id": "hadith_ramadan_004",
+    "day": 4,
+    "title_en": "Patience Reward",
+    "title_bn": "সহিষ্ণুতার পুরস্কার",
+    "hadith": "Fasting is a shield from the Hellfire and a protection from sinful acts.",
+    "source": "Sahih Muslim 1153"
+  },
+  {
+    "id": "hadith_ramadan_005",
+    "day": 5,
+    "title_en": "Forgiveness",
+    "title_bn": "ক্ষমা প্রার্থনা",
+    "hadith": "Whoever fasts Ramadan with faith and seeking reward, all his past sins will be forgiven.",
+    "source": "Sahih Bukhari 1904"
+  },
+  {
+    "id": "hadith_ramadan_006",
+    "day": 6,
+    "title_en": "Iftar Blessing",
+    "title_bn": "ইফতারের বরকত",
+    "hadith": "The Prophet ﷺ said: People will remain on the right path as long as they hasten to break the fast.",
+    "source": "Sunan Abu Dawud 2357"
+  },
+  {
+    "id": "hadith_ramadan_007",
+    "day": 7,
+    "title_en": "Reward Multiplied",
+    "title_bn": "সওয়াবের গুণ",
+    "hadith": "Every good deed of the son of Adam is multiplied: ten times, seven hundred times, or more.",
+    "source": "Sahih Muslim 2626"
+  },
+  {
+    "id": "hadith_ramadan_008",
+    "day": 8,
+    "title_en": "Laylatul Qadr",
+    "title_bn": "শবে কদর",
+    "hadith": "Whoever stands in prayer on Laylatul Qadr with faith and seeking reward, his past sins are forgiven.",
+    "source": "Sahih Bukhari 1901"
+  },
+  {
+    "id": "hadith_ramadan_009",
+    "day": 9,
+    "title_en": "Good Character",
+    "title_bn": "ভালো চরিত্র",
+    "hadith": "The best among you are those with the best character.",
+    "source": "Sahih Bukhari 3559"
+  },
+  {
+    "id": "hadith_ramadan_010",
+    "day": 10,
+    "title_en": "Supplication Accepted",
+    "title_bn": "দোয়া কবুল",
+    "hadith": "There is nothing more dear to Allah than a servant’s supplication.",
+    "source": "Jami` at-Tirmidhi 3372"
+  },
+  {
+    "id": "hadith_ramadan_011",
+    "day": 11,
+    "title_en": "Fasting Shield",
+    "title_bn": "রোজার ঢাল",
+    "hadith": "Fasting is a shield against sins and fire.",
+    "source": "Sahih Bukhari 1902"
+  },
+  {
+    "id": "hadith_ramadan_012",
+    "day": 12,
+    "title_en": "Sadaqah in Ramadan",
+    "title_bn": "রমজানে সদকাহ",
+    "hadith": "The Prophet ﷺ was most generous in charity during Ramadan.",
+    "source": "Sahih Bukhari 1901"
+  },
+  {
+    "id": "hadith_ramadan_013",
+    "day": 13,
+    "title_en": "Patience Reward",
+    "title_bn": "ধৈর্যের সওয়াব",
+    "hadith": "Patience is a light for the believer.",
+    "source": "Sahih Muslim 2999"
+  },
+  {
+    "id": "hadith_ramadan_014",
+    "day": 14,
+    "title_en": "Forgiveness for Family",
+    "title_bn": "পরিবারের জন্য ক্ষমা",
+    "hadith": "Pray for your family, for Allah loves those who pray for their loved ones.",
+    "source": "Jami` at-Tirmidhi 2615"
+  },
+  {
+    "id": "hadith_ramadan_015",
+    "day": 15,
+    "title_en": "Mindfulness",
+    "title_bn": "সচেতনতা",
+    "hadith": "Fasting is not just refraining from food but also from vain talk and anger.",
+    "source": "Sahih Bukhari 1905"
+  },
+  {
+    "id": "hadith_ramadan_016",
+    "day": 16,
+    "title_en": "Charity Benefits",
+    "title_bn": "দান করার উপকারিতা",
+    "hadith": "Charity does not decrease wealth.",
+    "source": "Sahih Muslim 2588"
+  },
+  {
+    "id": "hadith_ramadan_017",
+    "day": 17,
+    "title_en": "Repentance",
+    "title_bn": "তওবা",
+    "hadith": "All the sons of Adam are sinners, but the best of sinners are those who repent.",
+    "source": "Sunan Ibn Majah 4246"
+  },
+  {
+    "id": "hadith_ramadan_018",
+    "day": 18,
+    "title_en": "Respect Parents",
+    "title_bn": "পিতামাতার সম্মান",
+    "hadith": "Paradise lies under the feet of mothers.",
+    "source": "Sahih Muslim 2548"
+  },
+  {
+    "id": "hadith_ramadan_019",
+    "day": 19,
+    "title_en": "Kindness",
+    "title_bn": "দয়া",
+    "hadith": "Be kind to others, for Allah loves kindness.",
+    "source": "Sahih Bukhari 6026"
+  },
+  {
+    "id": "hadith_ramadan_020",
+    "day": 20,
+    "title_en": "Truthfulness",
+    "title_bn": "সত্যবাদিতা",
+    "hadith": "Truthfulness leads to righteousness.",
+    "source": "Sahih Bukhari 6090"
+  },
+  {
+    "id": "hadith_ramadan_021",
+    "day": 21,
+    "title_en": "Fasting Reward Multiplied",
+    "title_bn": "রোজার সওয়াব গুণিত",
+    "hadith": "Allah multiplies the reward of fasting for His servants.",
+    "source": "Sahih Bukhari 1904"
+  },
+  {
+    "id": "hadith_ramadan_022",
+    "day": 22,
+    "title_en": "Prayer at Night",
+    "title_bn": "রাতের নামাজ",
+    "hadith": "The best prayer after the obligatory prayers is the night prayer.",
+    "source": "Sahih Muslim 1160"
+  },
+  {
+    "id": "hadith_ramadan_023",
+    "day": 23,
+    "title_en": "Avoid Bad Deeds",
+    "title_bn": "মন্দ কাজ এড়ানো",
+    "hadith": "Avoid bad deeds, for they lead to Hellfire.",
+    "source": "Sahih Bukhari 6027"
+  },
+  {
+    "id": "hadith_ramadan_024",
+    "day": 24,
+    "title_en": "Patience Reward",
+    "title_bn": "সহিষ্ণুতার সওয়াব",
+    "hadith": "The reward of patience is immense in Ramadan.",
+    "source": "Sahih Muslim 2999"
+  },
+  {
+    "id": "hadith_ramadan_025",
+    "day": 25,
+    "title_en": "Supplication Accepted",
+    "title_bn": "দোয়া কবুল",
+    "hadith": "Supplication during Ramadan is never rejected.",
+    "source": "Sunan Abu Dawud 2357"
+  },
+  {
+    "id": "hadith_ramadan_026",
+    "day": 26,
+    "title_en": "Night Vigil",
+    "title_bn": "রাত জাগরণ",
+    "hadith": "Stand in prayer during the nights of Ramadan.",
+    "source": "Sahih Bukhari 1903"
+  },
+  {
+    "id": "hadith_ramadan_027",
+    "day": 27,
+    "title_en": "Laylatul Qadr Night",
+    "title_bn": "শবে কদরের রাত",
+    "hadith": "Whoever prays on Laylatul Qadr with faith, his past sins are forgiven.",
+    "source": "Sahih Bukhari 1901"
+  },
+  {
+    "id": "hadith_ramadan_028",
+    "day": 28,
+    "title_en": "Charity Reward",
+    "title_bn": "দান করার সওয়াব",
+    "hadith": "Charity during Ramadan is rewarded manifold.",
+    "source": "Sahih Muslim 2588"
+  },
+  {
+    "id": "hadith_ramadan_029",
+    "day": 29,
+    "title_en": "Forgiveness",
+    "title_bn": "ক্ষমা প্রার্থনা",
+    "hadith": "Seek forgiveness frequently during the last ten days of Ramadan.",
+    "source": "Sunan Ibn Majah 4246"
+  },
+  {
+    "id": "hadith_ramadan_030",
+    "day": 30,
+    "title_en": "Blessing of Fasting",
+    "title_bn": "রোজার বরকত",
+    "hadith": "Fasting protects from sins and increases blessings.",
+    "source": "Sahih Bukhari 1905"
+  },
+  {
+    "id": "hadith_ramadan_031",
+    "day": 31,
+    "title_en": "Eid-ul-Fitr Hadith",
+    "title_bn": "ঈদ-উল-ফিতরের হাদিস",
+    "hadith": "When the month of Ramadan is over, celebrate Eid and give charity.",
+    "isEid": true,
+    "source": "Sahih Bukhari 1906"
+  }
+]
